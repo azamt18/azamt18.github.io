@@ -1,3 +1,3 @@
 ## Website for design company
 
-Go to url: [website.github.io/square]()
+Go to url: [azamt18.github.io/square/index](https://azamt18.github.io/square/index)
