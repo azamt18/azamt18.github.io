@@ -1,3 +1,3 @@
 ## Website for design company
 
-Go to url: [creative-group.uz](/square)
+Go to url: [website.github.io/square]()
