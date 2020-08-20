@@ -2,4 +2,6 @@
 
 Go to url: [azamt18.github.io/square/index](https://azamt18.github.io/square/index)
 
-#### Based on the template made by Colorlib
+___
+
+###### Based on the template made by Colorlib
